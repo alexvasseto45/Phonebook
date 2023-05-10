@@ -1,0 +1,32 @@
+﻿body {
+    background-color: black;
+}
+
+.contactInfo {
+    color: magenta;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+}
+
+.submitButton {
+    border: 2px solid magenta;
+    background-color: #191B1B;
+    color: magenta;
+}
+
+.registration {
+    display: block;
+    width: 324px;
+    margin: auto;
+    background-color: #191B1B;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.errClass {
+    color: red;
+}
+.centerEl{
+    text-align:center;
+}
+
